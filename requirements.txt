@@ -1,0 +1,8 @@
+llama-cpp-python
+nltk
+ollama
+scipy
+sklearn
+tqdm
+transformers
+torch
